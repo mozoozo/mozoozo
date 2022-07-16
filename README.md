@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ahmed Khaled
+- 👀 I’m interested in Astronomy, programming, writing, and reading.
+- 🌱 I’m currently learning ML and Back-end development
+- 📫 How to reach me: ahmedkhaled77311@gmail.com
